@@ -1,0 +1,38 @@
+
+body{
+background-color: #333;
+color: #fff;
+font-family: tahoma, verdana,serif;
+}
+
+.container{
+	text-align: center;
+	font-size: 18px;
+}
+
+#header{
+	text-align: center;
+	background-color: #737373;
+	padding: 20px;
+	margin-top: 0;
+}
+
+#current-word{
+	font-size: 60px;
+	font-family: verdana;
+}
+
+input[type="text"]{
+	width: 40%;
+	height: 30px;
+}
+
+#seconds{
+	color: green;
+}
+
+.card{
+	background-color: #737373;
+	margin: 60px;
+	padding-bottom: 10px;
+}
